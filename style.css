@@ -1,3 +1,4 @@
+.style.css
 /* Tag selector to select the 'body' element */
 body {
   /* Your code here! */
@@ -10,14 +11,14 @@ div {
   background-color: white;
   width: 700px;
   margin: auto;
-  font-family: Helvetica Neue;
+  font-family: Helvetica, sans-serif;
   padding: 30px;
 }
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
   /* Your code here! */
-  font-size: 22x;
+  font-size: 22px;
 }
 
 /* Class selector to select elements containing the class 'perspective-questions' */
